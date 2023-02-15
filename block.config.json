@@ -1,0 +1,8 @@
+{
+  "name": "jk",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/uttahb/jk",
+    "ssh": "git@github.com:uttahb/jk.git"
+  }
+}
